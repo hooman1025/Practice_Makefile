@@ -73,29 +73,29 @@ CMakeFiles/program.dir/main.c.o: CMakeFiles/program.dir/flags.make
 CMakeFiles/program.dir/main.c.o: ../main.c
 CMakeFiles/program.dir/main.c.o: CMakeFiles/program.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hooman1025/project/Practice_Makefile/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/program.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/program.dir/main.c.o -MF CMakeFiles/program.dir/main.c.o.d -o CMakeFiles/program.dir/main.c.o -c /home/hooman1025/project/Practice_Makefile/main.c
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/program.dir/main.c.o -MF CMakeFiles/program.dir/main.c.o.d -o CMakeFiles/program.dir/main.c.o -c /home/hooman1025/project/Practice_Makefile/main.c
 
 CMakeFiles/program.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/program.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hooman1025/project/Practice_Makefile/main.c > CMakeFiles/program.dir/main.c.i
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hooman1025/project/Practice_Makefile/main.c > CMakeFiles/program.dir/main.c.i
 
 CMakeFiles/program.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/program.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hooman1025/project/Practice_Makefile/main.c -o CMakeFiles/program.dir/main.c.s
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hooman1025/project/Practice_Makefile/main.c -o CMakeFiles/program.dir/main.c.s
 
 CMakeFiles/program.dir/hello.c.o: CMakeFiles/program.dir/flags.make
 CMakeFiles/program.dir/hello.c.o: ../hello.c
 CMakeFiles/program.dir/hello.c.o: CMakeFiles/program.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hooman1025/project/Practice_Makefile/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/program.dir/hello.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/program.dir/hello.c.o -MF CMakeFiles/program.dir/hello.c.o.d -o CMakeFiles/program.dir/hello.c.o -c /home/hooman1025/project/Practice_Makefile/hello.c
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/program.dir/hello.c.o -MF CMakeFiles/program.dir/hello.c.o.d -o CMakeFiles/program.dir/hello.c.o -c /home/hooman1025/project/Practice_Makefile/hello.c
 
 CMakeFiles/program.dir/hello.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/program.dir/hello.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hooman1025/project/Practice_Makefile/hello.c > CMakeFiles/program.dir/hello.c.i
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hooman1025/project/Practice_Makefile/hello.c > CMakeFiles/program.dir/hello.c.i
 
 CMakeFiles/program.dir/hello.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/program.dir/hello.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hooman1025/project/Practice_Makefile/hello.c -o CMakeFiles/program.dir/hello.c.s
+	/usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hooman1025/project/Practice_Makefile/hello.c -o CMakeFiles/program.dir/hello.c.s
 
 # Object files for target program
 program_OBJECTS = \

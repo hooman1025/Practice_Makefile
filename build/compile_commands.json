@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hooman1025/project/Practice_Makefile/build",
+  "command": "/usr/bin/gcc  -I/home/hooman1025/project/Practice_Makefile/includes -g -o CMakeFiles/program.dir/main.c.o -c /home/hooman1025/project/Practice_Makefile/main.c",
+  "file": "/home/hooman1025/project/Practice_Makefile/main.c"
+},
+{
+  "directory": "/home/hooman1025/project/Practice_Makefile/build",
+  "command": "/usr/bin/gcc  -I/home/hooman1025/project/Practice_Makefile/includes -g -o CMakeFiles/program.dir/hello.c.o -c /home/hooman1025/project/Practice_Makefile/hello.c",
+  "file": "/home/hooman1025/project/Practice_Makefile/hello.c"
+}
+]
