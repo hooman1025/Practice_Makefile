@@ -4,5 +4,8 @@
 int main()
 {
     print_hello();
+    Welcome();
+    Hi();
+    
     return 0;
 }
