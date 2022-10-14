@@ -1,0 +1,3 @@
+/home/hooman1025/project/Practice_Makefile/build/CMakeFiles/program.dir
+/home/hooman1025/project/Practice_Makefile/build/CMakeFiles/edit_cache.dir
+/home/hooman1025/project/Practice_Makefile/build/CMakeFiles/rebuild_cache.dir
